@@ -20,5 +20,5 @@ config frps 'main'
 	option log_level 'trace'
 	option log_max_days '3'
 	option disable_log_color 'false'
-	option enabled '1'
+	option enabled '0'
 
